@@ -1,0 +1,8 @@
+//カメラに関わるクラスを定義する
+
+class Camera {
+	float cameraHeight
+	void Chase()
+	Vector3 CameraLookAt()
+	void Rotate()
+}
