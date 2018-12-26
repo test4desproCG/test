@@ -1,0 +1,8 @@
+//操作をするためのクラス
+class Controller {
+	void Walk()
+	void Turn()
+	int GetVelocity()
+	void SetVelocity()
+}
+
